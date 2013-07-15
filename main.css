@@ -15,4 +15,6 @@
 .content {
   width: 600px;
   float: right;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
 }
