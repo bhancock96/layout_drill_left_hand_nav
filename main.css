@@ -13,7 +13,7 @@
 
 
 .content {
-  width: 600px;
+  width: 590px;
   float: right;
   border-bottom: 2px solid black;
   border-left: 2px solid black;
@@ -29,6 +29,16 @@ h2 {
 nav {
   width: 90px;
   float: left;
-  padding-top: 0;
-  margin-left: 0px;
+  border-bottom: 2px solid black
 }
+
+nav ul {
+  margin-top: 0;
+  padding-left: 0;
+}
+
+.footer {
+  clear: both;
+}
+
+
