@@ -17,4 +17,18 @@
   float: right;
   border-bottom: 2px solid black;
   border-left: 2px solid black;
+  padding-left: 10px;
+  padding-top: 0px;
+}
+
+h2 {
+  margin-top: 0;
+  padding-left: 0px;
+}
+
+nav {
+  width: 90px;
+  float: left;
+  padding-top: 0;
+  margin-left: 0px;
 }
